@@ -174,3 +174,35 @@ ul {
              font-weight: bolder;
 
 }
+
+
+.layer4{
+        background-color: white;
+       display: flex;
+       height: 40vh;   
+       align-items: center;
+       justify-content: center;
+}
+
+.bluelayer {
+
+         background-color: #3882F6;
+         display: flex;
+         min-height: 200px;
+         min-width: 1000px;
+         border-radius: 10px;
+         justify-content: center;
+         align-items: center;
+
+
+}
+
+.footer {
+ background-color: #1F2937;
+ color: white;
+ height: 10vh;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
